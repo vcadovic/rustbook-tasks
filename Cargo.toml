@@ -1,0 +1,10 @@
+[package]
+name = "rustbook"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "fahrenheit_to_celsius"
+path = "src/bin/ch03-05-control-flow/fahrenheit_to_celsius.rs"
