@@ -16,3 +16,7 @@ path = "src/bin/ch03-05-control-flow/nth_fibonacci.rs"
 [[bin]]
 name = "median"
 path = "src/bin/ch08-common-collections/median.rs"
+
+[[bin]]
+name = "mode"
+path = "src/bin/ch08-common-collections/mode.rs"
