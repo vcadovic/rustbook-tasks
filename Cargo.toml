@@ -12,3 +12,7 @@ path = "src/bin/ch03-05-control-flow/fahrenheit_to_celsius.rs"
 [[bin]]
 name = "nth_fibonacci"
 path = "src/bin/ch03-05-control-flow/nth_fibonacci.rs"
+
+[[bin]]
+name = "median"
+path = "src/bin/ch08-common-collections/median.rs"
